@@ -8,11 +8,11 @@ put the file in the folder consisting the files needed to be renamed
 
 first it requires the number of loops that will occur or how many files should be renamed
 
-old file name
+insert old file name like this
 
-then first name like "a(" in "a(0).jpeg"
-then middle number like "0" in "a(0).jpeg"
-then last name ").jpeg" in "a(0).jpeg"
+first name like "a(" in "a(0).jpeg"
+middle number like "0" in "a(0).jpeg"
+last name ").jpeg" in "a(0).jpeg"
 
 then new file name
 

@@ -10,9 +10,11 @@ first it requires the number of loops that will occur or how many files should b
 
 insert old file name like this
 
-first name like "a(" in "a(0).jpeg"
-middle number like "0" in "a(0).jpeg"
-last name ").jpeg" in "a(0).jpeg"
+first part of the name ===== like "a(" in "a(0).jpeg"
+
+middle part or number in integer ====== like "0" in "a(0).jpeg"
+
+last part or extension ======= name ").jpeg" in "a(0).jpeg"
 
 then new file name
 
